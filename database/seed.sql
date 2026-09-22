@@ -1,0 +1,2 @@
+-- Demo users and readings are generated consistently by backend/app/seed.py.
+-- Demo password for local development: demo1234
