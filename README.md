@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartHVAC
 
 Smart HVAC & Building Intelligence Platform.
@@ -30,3 +31,6 @@ Superadmins can create organizations through `POST /api/organizations` and creat
 For Google Maps, set `VITE_GOOGLE_MAPS_API_KEY` in `.env` and enable Maps JavaScript API. The API endpoint is `GET /api/buildings/locations`; Demo Mode remains available without hardware or a Maps key.
 
 See `docs/architecture.md`, `docs/api.md`, and `MAP_SETUP.md` for the architecture and deployment contracts.
+=======
+# HVAC
+>>>>>>> 9350e8050ad9de1fd9ad04f6692a58d1d415b242
